@@ -95,4 +95,43 @@ printf("\n%d\n",queue[i]);
 }
 }
 }
+output:Main Menu
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+Enter your choice ?1
+Enter the element
+123
+Value insereted
+Main Menu
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+Enter your choice ?1
+Enter the element
+90
+Value inserted 
+Main Menu
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+Enter your choice ?2
+value deleted 
+Main Menu
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+Enter your choice ?3
+printing values 
+90
+Main Menu
+1.insert an element
+2.Delete an element
+3.Display the queue
+4.Exit
+Enter your choice ?4
 

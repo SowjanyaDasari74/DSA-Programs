@@ -23,4 +23,7 @@ int main()
      printf("%d\n", array[c]);
   return 0;
 }
-
+output:
+enter number of elements: 5
+  enter 5 integers: 1 -2 4 7 9
+    sortd order in ascending order: -2 1 4 7 9

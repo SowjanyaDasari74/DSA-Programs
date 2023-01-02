@@ -27,3 +27,11 @@ int main()
     printf("Not found! %d isn't present in the list.\n", search);
   return 0;
 }
+output:
+Enter number of elements
+5
+Enter 5 integers
+12 34 56 78 90
+Enter value to find
+ 78 
+78 found at location 4.

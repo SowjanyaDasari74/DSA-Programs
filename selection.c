@@ -27,5 +27,12 @@ for(i = 0; i < n; i++)
 printf("%dn", a[i]);
 return 0;
 }
-
+output:
+  enter number of elements
+  4
+  enter 4 numbers
+  4 2 5 8
+  sorted array
+  2 4 5 8
+  
 

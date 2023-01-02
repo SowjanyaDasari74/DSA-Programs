@@ -19,6 +19,10 @@ int main()
         printf("Item does not exist.");
     return 0;
 }
-                                                                                                                   0,1           All
+ output:
+Enter number of elements of an array: 5
+Enter elements: 12 34 56 78 90
+Enter item to search:  56
+Item found at location 3
 
 

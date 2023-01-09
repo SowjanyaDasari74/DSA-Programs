@@ -264,3 +264,282 @@ void display()  
         }  
     }  
 }          
+output:
+ 			*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+1
+
+Enter value
+1
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+2
+
+Enter value?
+2
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+3
+
+Enter element value1
+
+Enter the location after which you want to insert 1
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+printing values . . . . .
+
+1
+2
+1
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+2
+
+Enter value?
+123
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+1
+
+Enter value
+1234
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+4
+
+Node deleted from the begining ...
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+5
+
+Deleted Node from the last ...
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+6
+
+Enter the location of the node after which you want to perform deletion 
+1
+
+Deleted node 2 
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+printing values . . . . .
+
+1
+1
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+7
+
+Enter item which you want to search?
+1
+item found at location 1 
+item found at location 2 
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete node after specified location
+7.Search for an element
+8.Show
+9.Exit
+
+Enter your choice?
+9              

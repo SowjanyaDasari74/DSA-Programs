@@ -281,3 +281,364 @@ void search()  
         }  
     }     
  }
+output:
+ *********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+ printing values...
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+1
+
+Enter Item value12
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+1
+
+Enter Item value123
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+1
+
+Enter Item value1234
+
+Node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+ printing values...
+1234
+123
+12
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+2
+
+Enter value89
+
+node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+3
+Enter the location1
+Enter value12345
+
+node inserted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+ printing values...
+1234
+123
+12345
+12
+89
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+4
+
+node deleted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+5
+
+node deleted
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+ printing values...
+123
+12345
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+6
+
+ Enter the data after which the node is to be deleted : 123
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+8
+
+ printing values...
+123
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+7
+
+Enter item which you want to search?
+123
+
+item found at location 1 
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+6
+
+ Enter the data after which the node is to be deleted : 123
+
+Can't delete
+
+*********Main Menu*********
+
+Choose one option from the following list ...
+
+===============================================
+
+1.Insert in begining
+2.Insert at last
+3.Insert at any random location
+4.Delete from Beginning
+5.Delete from last
+6.Delete the node after the given data
+7.Search
+8.Show
+9.Exit
+
+Enter your choice?
+9 
+
+Exited..              

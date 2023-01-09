@@ -113,4 +113,38 @@ ptr=ptr->n;
 }
 }
 }
-
+output:
+IMPLEMENTATION OF QUEUE USING POINTERS
+MENU
+[1] To insert an element
+[2] To remove an element
+[3] To display all the elements
+[4] Exit
+Enter your choice:1
+Element to be inserted:23
+IMPLEMENTATION OF QUEUE USING POINTERS
+MENU
+[1] To insert an element
+[2] To remove an element
+[3] To display all the elements
+[4] Exit
+Enter your choice:
+3
+Elements present in Queue are:
+23
+IMPLEMENTATION OF QUEUE USING POINTERS
+MENU
+[1] To insert an element
+[2] To remove an element
+[3] To display all the elements
+[4] Exit
+Enter your choice:2
+23 is removed from the queue
+IMPLEMENTATION OF QUEUE USING POINTERS
+MENU
+[1] To insert an element
+[2] To remove an element
+[3] To display all the elements
+[4] Exit
+Enter your choice:4
+Exit 

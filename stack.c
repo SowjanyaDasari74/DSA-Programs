@@ -51,5 +51,15 @@ printf("elements of stack are %d" stack);
 num = top;
 top--;
 }
-
+output:
+Element at top of the stack: 15
+Elements:
+15
+12
+1 
+9 
+5 
+3 
+Stack full: false
+Stack empty: true
 

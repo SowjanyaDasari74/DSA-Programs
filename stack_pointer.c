@@ -95,18 +95,10 @@ Enter the element to be pushed :: 30
 Enter the choice :: 5
 The Stack Elements are :: 30  20  10
 1. PUSH  2. POP  3.TOP   4. TOPANDPOP    5. PRINT        6. QUIT
-
 Enter the choice :: 2
-
-
 1. PUSH  2. POP  3.TOP   4. TOPANDPOP    5. PRINT        6. QUIT
-
 Enter the choice :: 5
 The Stack Elements are :: 20  10
-
-
-
 1. PUSH  2. POP  3.TOP   4. TOPANDPOP    5. PRINT        6. QUIT
-
 Enter the choice ::
 

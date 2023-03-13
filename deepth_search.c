@@ -76,3 +76,14 @@ int main() {
   DFS(graph, 1);
   return 0;
 }
+output:
+The Adjacency List of the Graph is:
+1 =>  3, 2, 5, 
+2 =>  4, 7, 1, 
+3 =>  6, 1, 
+4 =>  2, 
+5 =>  1, 
+6 =>  3, 
+7 =>  2, 
+DFS traversal of the graph: 
+1 -> 3 -> 6 -> 2 -> 4 -> 7 -> 5 -> 

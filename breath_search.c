@@ -127,3 +127,14 @@ int main() {
   bfs(graph, 0);
   return 0;
 }
+output:
+Queue contains 
+0 Resetting queue Visited 0
+Queue contains 
+2 1 Visited 2
+Queue contains 
+1 4 Visited 1
+Queue contains 
+4 3 Visited 4
+Queue contains 
+3 Resetting queue Visited 3
